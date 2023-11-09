@@ -1,0 +1,32 @@
+.todoInputContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: -1.7rem;
+}
+
+.todoInputContainer button {
+  background-color: #1E6F9F;
+  color: #F2F2F2;
+  height: 3.25rem;
+  width: 5.62rem;
+  margin-left: 1rem;
+  border-radius: 8px;
+  border: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.todoInputContainer img {
+  margin-left: 0.3rem;
+}
+
+.todoInputContainer input {
+  background-color: #262626;
+  width: 39.87rem;
+  border-radius: 8px;
+  border: solid 1px #0D0D0D;
+  color: #808080;
+  padding-left: 1rem;
+}
